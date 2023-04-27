@@ -31,7 +31,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Khalid on 11/25/2018.
+ * Created by Team InKitchenon 11/25/2018.
  */
 
 public class Adapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {

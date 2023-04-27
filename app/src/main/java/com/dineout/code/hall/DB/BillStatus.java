@@ -1,7 +1,7 @@
 package com.dineout.code.hall.DB;
 
 /**
- * Created by Khalid on 12/1/2018.
+ * Created by Team InKitchen.
  */
 
 public class BillStatus {

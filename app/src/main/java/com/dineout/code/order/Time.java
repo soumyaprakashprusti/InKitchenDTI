@@ -59,7 +59,7 @@ public class Time extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), "total estimated time= "+timeCount+"minutes", Toast.LENGTH_LONG).show();
                 //Timer Settings
                 int minutes = 1;
-                long milliseconds = timeCount * 60000;
+                long milliseconds = timeCount * 60;
                 START_TIME_IN_MILLIS=milliseconds;
                 mTimeLeftInMillis = START_TIME_IN_MILLIS;
                 mTextViewCountDown = findViewById(R.id.countdown);

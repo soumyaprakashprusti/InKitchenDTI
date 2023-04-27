@@ -122,11 +122,11 @@ public class AdminPanelActivity extends AppCompatActivity {
         startActivity(i);
     }
 
-    //add tablet activity
-    public void onClickReg3(View v) {
-        Intent i = new Intent(this, AddTabletActivity.class);
-        startActivity(i);
-    }
+//    //add tablet activity
+//    public void onClickReg3(View v) {
+//        Intent i = new Intent(this, AddTabletActivity.class);
+//        startActivity(i);
+//    }
 
     //add table activityy
     public void onClickReg4(View v) {
